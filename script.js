@@ -156,9 +156,13 @@ const _slideEnam = function () {
 new TypeIt("#teks1", {
   strings: [
   "Today, I send all my sweetest wishes and prayers to you, my dear.",
+    " ",
   "May every challenge that tries to bring you down become a reason for you to rise even stronger.",
+    " ",
   "May the world wrap you in its warmth and keep you safe wherever you go.",
+    " ",
   "May your days be filled with endless love, gentle and boundless as the sky.",
+    " ",
   "May each step you take be blessed, guiding you gently towards all your dreams."
 ],
   startDelay: 4000,
@@ -464,3 +468,4 @@ function confetti() {
 
   if (!onlyOnKonami) poof();
 };
+
