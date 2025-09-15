@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
 body,
 html {
   height: 100%;  
@@ -53,8 +56,7 @@ html {
 
 
 /* Paper */
-@import url('https://fonts.googleapis.com/css?family=Roboto');
-@import url('https://fonts.googleapis.com/css?family=Handlee');
+
 
 
 .paper {
@@ -108,7 +110,7 @@ html {
   outline: 0;
   background: transparent;
   color: #3f3f44;
-  font-family: 'Handlee', cursive;
+  font-family: 'Roboto', sans-serif;
   font-size: 18px;
   box-sizing: border-box;
   z-index: 1;
@@ -178,4 +180,5 @@ body {
   padding: 0;
   text-align: center;
 }
+
 
