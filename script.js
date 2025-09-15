@@ -156,13 +156,9 @@ const _slideEnam = function () {
 new TypeIt("#teks1", {
   strings: [
   "Today, I send all my sweetest wishes and prayers to you, my dear.",
-    " ",
   "May every challenge that tries to bring you down become a reason for you to rise even stronger.",
-    " ",
   "May the world wrap you in its warmth and keep you safe wherever you go.",
-    " ",
   "May your days be filled with endless love, gentle and boundless as the sky.",
-    " ",
   "May each step you take be blessed, guiding you gently towards all your dreams."
 ],
   startDelay: 4000,
@@ -173,15 +169,10 @@ new TypeIt("#teks1", {
 new TypeIt("#teks2", {
 strings: [
   "With or without me, may the universe always surround you with endless joy and love, filling your days with light and warmth.",
-  " ",
   "Shruthi- Thank you for being the beautiful, strong soul that brightens every moment of my life.",
-  " ",
   "May every heartbeat of yours be kissed with happiness, and may every dream you hold close bloom into reality.",
-  " ",
   "Even when we’re apart, know that my love follows you like a gentle breeze, whispering hope and care in every step you take.",
-  " ",
   "May laughter dance around you, love embrace you, and magic touch your life in the sweetest ways.",
-  " ",
   "- Always wishing you endless love, unspoken joy, and all the wonders your heart can dream of."
 ],
   startDelay: 2000,
@@ -468,4 +459,5 @@ function confetti() {
 
   if (!onlyOnKonami) poof();
 };
+
 
